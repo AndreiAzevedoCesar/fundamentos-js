@@ -1,2 +1,3 @@
 ### Fundamentos JavaScript
-Repositório com alguns fundamentos de JavaScript
+
+Repositório para anotar alguns fundamentos de JavaScript
