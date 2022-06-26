@@ -4,16 +4,16 @@
 // conversão implícita
 const numero = 456;
 const numeroString = "456"
-//const numeroString = Number("456a");
 
 //somente com == o JS faz a conversão implicíta 
 console.log(numero == numeroString)
 
-//Conversões
+//Conversão explicita
 //Number()
 //String()
 console.log(numero + Number(numeroString))
 
-// conversão explícita
+//const numeroString = Number("456");
+//const numeroString = Number("456a");  NaN
 
 console.warn(new Error('oi'))

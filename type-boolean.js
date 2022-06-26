@@ -13,3 +13,5 @@ const texto2 = "alura";
 
 console.log(texto1 === texto2)
 
+// === Compara o valor e tipo
+
