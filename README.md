@@ -1,3 +1,6 @@
-### Fundamentos JavaScript
+<h1 align="center"
+    <p>
+Fundamentos do JavaScript
+</h1>
 
-Repositório para anotar alguns fundamentos de JavaScript
+🔭 Repositório para conteúdo e anotações dos fundamentos do JavaScript
