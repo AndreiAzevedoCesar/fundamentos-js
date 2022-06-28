@@ -3,4 +3,4 @@
 Fundamentos do JavaScript
 </h1>
 
-🔭 Repositório para conteúdo e anotações dos fundamentos do JavaScript
+🔭 Repositório para conteúdo e anotações dos fundamentos do JavaScript.
